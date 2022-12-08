@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://pk170970.github.io/csb-zhl5vr/static/css/main.fd50c553.chunk.css",
+    "main.js": "https://pk170970.github.io/csb-zhl5vr/static/js/main.816b565d.chunk.js",
+    "main.js.map": "https://pk170970.github.io/csb-zhl5vr/static/js/main.816b565d.chunk.js.map",
+    "runtime-main.js": "https://pk170970.github.io/csb-zhl5vr/static/js/runtime-main.2f78360c.js",
+    "runtime-main.js.map": "https://pk170970.github.io/csb-zhl5vr/static/js/runtime-main.2f78360c.js.map",
+    "static/js/2.8c7fcccd.chunk.js": "https://pk170970.github.io/csb-zhl5vr/static/js/2.8c7fcccd.chunk.js",
+    "static/js/2.8c7fcccd.chunk.js.map": "https://pk170970.github.io/csb-zhl5vr/static/js/2.8c7fcccd.chunk.js.map",
+    "index.html": "https://pk170970.github.io/csb-zhl5vr/index.html",
+    "precache-manifest.4477dac224c684d08c5c32a590fe97eb.js": "https://pk170970.github.io/csb-zhl5vr/precache-manifest.4477dac224c684d08c5c32a590fe97eb.js",
+    "service-worker.js": "https://pk170970.github.io/csb-zhl5vr/service-worker.js",
+    "static/css/main.fd50c553.chunk.css.map": "https://pk170970.github.io/csb-zhl5vr/static/css/main.fd50c553.chunk.css.map",
+    "static/js/2.8c7fcccd.chunk.js.LICENSE.txt": "https://pk170970.github.io/csb-zhl5vr/static/js/2.8c7fcccd.chunk.js.LICENSE.txt",
+    "static/js/main.816b565d.chunk.js.LICENSE.txt": "https://pk170970.github.io/csb-zhl5vr/static/js/main.816b565d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f78360c.js",
+    "static/js/2.8c7fcccd.chunk.js",
+    "static/css/main.fd50c553.chunk.css",
+    "static/js/main.816b565d.chunk.js"
+  ]
+}
