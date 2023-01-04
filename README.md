@@ -2,7 +2,7 @@
 
 I had created this project of javascript with pure HTML,CSS ,Javascript ES6 and React.
 
-[Live Link]()
+[Live Link](https://csb-zhl5vr.netlify.app/)
 <br>
 [Code Link](https://codesandbox.io/s/react-projet-6-job-forked-zhl5vr)
 
